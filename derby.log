@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 16 08:16:29 GMT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-016f-0dc7-b2f3-00000a62c3b0 
+on database directory /home/godwin/Projects/examples/java-examples/phonebook/contact_db  with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/home/godwin/.m2/repository/org/apache/derby/derby/10.8.3.0/derby-10.8.3.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/godwin/Projects/examples/java-examples/phonebook
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-70-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
